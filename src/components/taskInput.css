@@ -1,0 +1,29 @@
+.add-task {
+    padding: 20px 20px;
+    width: 300px;
+}
+
+.add-task__input {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0;
+    font-size: 1rem;
+    border: 1px solid #b4b4b4;
+    outline: none;
+}
+
+.add-task__btn {
+    display: block;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+    background-color: #109121;
+    color: white;
+    outline: none;
+}
+
+.add-task__btn:hover {
+    background-color: #16c72e;
+}
